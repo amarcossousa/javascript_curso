@@ -10,6 +10,4 @@ typeof nome
 typeof idade
 
 // Aula com uso conjunto do NodeJS
-
-
 // teste de nova chave ssh 
