@@ -2,8 +2,11 @@
 
 // definir uma variavel 
 var nome = 'marcos'
+var idade = 24
 
-// ler qual tipo de variavel 
-typeof nome 
 
-// Aula com uso conjuto do Node.js
+// ler qual o tipo da variavel 
+typeof nome
+typeof idade
+
+// Aula com uso conjunto do NodeJS
