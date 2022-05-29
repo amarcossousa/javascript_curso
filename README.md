@@ -6,3 +6,4 @@ Codigos de aulas de cursos gerais da linguagem javascript
     - Introdução a linguagem
     - Variaveis
     - Manipulação de dados
+    - Operaladores aritméticos e logicos
